@@ -21,7 +21,9 @@ protected:
 
 public:	
 	// Called every frame
-	virtual void Tick(float DeltaTime) override;// Ejemplo de una Variable de Instancia Pública
+	virtual void Tick(float DeltaTime) override;
+
+	// Ejemplo de una Variable de Instancia Pública
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
 	float MyFloatVariable;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MyActorTest")
@@ -34,5 +36,4 @@ public:
 	// Ejemplo de una Función Pública
 	UFUNCTION(BlueprintCallable, Category = "MyActorTest")
 	void DemostrateFundamentals();
-
 };
