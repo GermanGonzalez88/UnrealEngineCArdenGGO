@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UECArdenGGO-1865.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UECArdenGGOEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArdenGGO\MyActorTest.gen.cpp.obj"
+"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArdenGGO\UECArdenGGO.init.gen.cpp.obj"
+"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArdenGGO\MyActorTest.cpp.obj"
+"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArdenGGO\UECArdenGGO.cpp.obj"
+"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArdenGGO\PerModuleInline.gen.cpp.obj"
+"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArdenGGO\Default.rc2.res"
+/OUT:"C:\Users\PC\Documents\GitHub\UnrealEngineCArdenGGO\UECArdenGGO\Intermediate\Build\Win64\x64\UnrealEditor\Development\UECArdenGGO\UnrealEditor-UECArdenGGO-1865.lib"
