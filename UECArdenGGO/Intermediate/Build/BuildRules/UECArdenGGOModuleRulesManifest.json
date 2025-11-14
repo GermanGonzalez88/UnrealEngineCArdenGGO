@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\PC\\Documents\\GitHub\\UnrealEngineCArdenGGO\\UECArdenGGO\\Source\\UECArdenGGO\\UECArdenGGO.Build.cs",
+		"C:\\Users\\PC\\Documents\\GitHub\\UnrealEngineCArdenGGO\\UECArdenGGO\\Source\\UECArdenGGO.Target.cs",
+		"C:\\Users\\PC\\Documents\\GitHub\\UnrealEngineCArdenGGO\\UECArdenGGO\\Source\\UECArdenGGOEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

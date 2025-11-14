@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UECArdenGGO.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UECArdenGGO.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UECArdenGGOEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UECArdenGGO">
+      <UniqueIdentifier>{12B912C4-0985-38C7-B1CC-FB7DAB0853DA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UECArdenGGO\MyActorTest.cpp">
+      <Filter>Source\UECArdenGGO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArdenGGO\MyActorTest.h">
+      <Filter>Source\UECArdenGGO</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\UECArdenGGO\UECArdenGGO.Build.cs">
+      <Filter>Source\UECArdenGGO</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UECArdenGGO\UECArdenGGO.cpp">
+      <Filter>Source\UECArdenGGO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArdenGGO\UECArdenGGO.h">
+      <Filter>Source\UECArdenGGO</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

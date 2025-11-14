@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pc\\documents\\github\\unrealenginecardenggo\\uecardenggo\\source\\uecardenggo\\uecardenggo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pc\\documents\\github\\unrealenginecardenggo\\uecardenggo\\intermediate\\build\\win64\\x64\\uecardenggoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\pc\\documents\\github\\unrealenginecardenggo\\uecardenggo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uecardenggo\\definitions.uecardenggo.h",
+            "c:\\users\\pc\\documents\\github\\unrealenginecardenggo\\uecardenggo\\source\\uecardenggo\\uecardenggo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
